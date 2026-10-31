@@ -1,0 +1,1 @@
+The files in this directory are included for provenance and reader context. The LaTeX source requires the official Springer Nature `sn-jnl.cls` and `sn-mathphys-ay.bst` files from the Springer Nature/Overleaf template and is not claimed to compile from this directory alone.

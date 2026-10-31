@@ -1,0 +1,12 @@
+Resource type: Dataset
+Title: Supporting simulation data and figures for a spline-profiled two-port sub-THz MIMO antenna
+Creators:
+- Djalal Ziani-Kerarti
+- Fatima Zohra Marouf
+Description: Supporting exports and publication figures for a full-wave numerical study of a spline-profiled PTFE two-port MIMO antenna with periodic dielectric perforation and defected-ground decoupling near 0.35 THz.
+Version: [AUTHOR TO COMPLETE]
+Publication date: [ZENODO TO ASSIGN]
+Keywords: sub-terahertz antenna; THz MIMO; PTFE; photonic bandgap; defected ground structure; spline antenna; genetic algorithm; CST; HFSS
+Related identifier: https://doi.org/10.5281/zenodo.22057365 (concept DOI; verify before submission)
+Funding: General Directorate of Scientific Research and Technological Development (DGRSDT), affiliated to the Algerian Ministry of Higher Education and Scientific Research.
+License: [AUTHOR TO SELECT after confirming redistribution rights; CC BY 4.0 is a possible option for data and figures if appropriate]
