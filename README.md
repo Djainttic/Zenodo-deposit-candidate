@@ -1,23 +1,15 @@
-# Zenodo deposit candidate: figure archive
+# Zenodo deposit candidate
 
-This repository is currently being prepared as a lightweight figure archive for the manuscript workflow. For the moment, the repository contains the manuscript figures in both PDF and EPS formats only.
+This repository is currently intended to contain only the manuscript source and the figure assets used in the publication workflow.
 
-This is a local deposit candidate. It has not yet been published to Zenodo.
+## Current scope
 
-## Current contents
-
-- `figures_pdf/`: manuscript figures exported as PDF files.
-- `figures_eps/`: manuscript figures exported as EPS files.
-- `documentation/`: figure manifest, notes, data dictionary, checksums, and metadata drafts.
-
-## Scope for the moment
-
-At this stage, the repository is intentionally focused on the figure assets:
-
-- the manuscript figures are available in both PDF and EPS formats;
-- the repository is not yet intended to be a complete archive of all supporting datasets or manuscript source files;
-- additional files can be added later if needed for a fuller Zenodo deposit.
+- `optional_manuscript_source/`: LaTeX manuscript source and bibliography files.
+- `figures_pdf/`: figure exports in PDF format.
+- `figures_eps/`: figure exports in EPS format.
 
 ## Notes
 
-The figure PDFs and EPS files are the core content of the current package. Their inventory is recorded in `documentation/FIGURE_MANIFEST.csv`, and the file integrity records are kept in `documentation/checksums_sha256.txt`.
+For the moment, the archive is kept focused on the manuscript source and figures only.
+
+The Touchstone export and other supporting-data files are not part of the current repository scope.

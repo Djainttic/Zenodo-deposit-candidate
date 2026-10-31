@@ -1,1 +1,3 @@
-The files in this directory are included for provenance and reader context. The LaTeX source requires the official Springer Nature `sn-jnl.cls` and `sn-mathphys-ay.bst` files from the Springer Nature/Overleaf template and is not claimed to compile from this directory alone.
+This directory contains the manuscript source files for the project.
+
+At the moment, the repository is intentionally limited to the LaTeX source and the manuscript figures. No Touchstone or other simulation export files are included in this package.
